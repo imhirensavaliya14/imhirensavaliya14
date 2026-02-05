@@ -2,11 +2,13 @@ Hi there! 👋 I'm Hiren 🌞
 Full-Stack & Chrome Extension Developer with 6+ years of experience building scalable web applications, SaaS platforms, and browser extensions. 🎊 Welcome to my GitHub profile! Here you'll find projects ranging from personal experiments to professional solutions.
 
 About Me 😊
-🌱 I'm currently exploring AI integrations & advanced automation
-💼 I am open to work and long-term collaborations
-👥 I'm looking to collaborate on SaaS, Chrome Extensions & Full-Stack projects
-🎓 6+ years of professional development experience
-📫 How to reach me: imhiren.savaliya14@gmail.com
+🌱 I'm currently exploring AI integrations & advanced automation.
+
+💼 I am open to work and long-term collaborations.
+
+👥 I'm looking to collaborate on SaaS, Chrome Extensions & Full-Stack projects.
+🎓 6+ years of professional development experience.
+📫 How to reach me: imhiren.savaliya14@gmail.com.
 
 My Skills 🦾
 ✅ Programming Languages: JavaScript | TypeScript | Node.js | PHP
