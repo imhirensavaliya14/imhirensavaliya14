@@ -1,5 +1,6 @@
 Hi there! 👋 I'm Hiren 🌞
 Full-Stack & Chrome Extension Developer with 6+ years of experience building scalable web applications, SaaS platforms, and browser extensions. 🎊 Welcome to my GitHub profile! Here you'll find projects ranging from personal experiments to professional solutions.
+
 About Me 😊
 🌱 I'm currently exploring AI integrations & advanced automation
 💼 I am open to work and long-term collaborations
