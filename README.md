@@ -46,8 +46,6 @@ Whether you have a project in mind, need technical consultation, or want to coll
 
 ---
 
-⭐ **Available for freelance projects and long-term collaborations!**
-
 ⚡ *Open to freelance projects, long-term collaborations, and interesting challenges!*
 
 **Looking forward to connecting!** 😊
